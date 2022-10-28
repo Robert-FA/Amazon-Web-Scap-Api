@@ -1,0 +1,27 @@
+{
+  "name": "amazon-web-scap-api",
+  "version": "1.0.0",
+  "description": "For Educational purpose",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert-FA/Amazon-Web-Scap-Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robert-FA/Amazon-Web-Scap-Api/issues"
+  },
+  "homepage": "https://github.com/Robert-FA/Amazon-Web-Scap-Api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
